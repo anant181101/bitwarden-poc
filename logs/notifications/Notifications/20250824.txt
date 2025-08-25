@@ -1,0 +1,8 @@
+2025-08-24 14:31:45.388 +00:00 [Warning] Storing keys in a directory '"/home/bitwarden/.aspnet/DataProtection-Keys"' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. For more information go to https://aka.ms/aspnet/dataprotectionwarning
+2025-08-24 14:31:45.634 +00:00 [Warning] Overriding HTTP_PORTS '"8080"' and HTTPS_PORTS '""'. Binding to values defined by URLS instead '"http://+:5000"'.
+2025-08-24 14:32:24.465 +00:00 [Warning] As of "08/24/2025 14:32:24 +00:00", the heartbeat has been running for "00:00:05.7452499" which is longer than "00:00:01". This could be caused by thread pool starvation.
+2025-08-24 14:32:27.011 +00:00 [Warning] Stopping service.
+2025-08-24 14:33:03.516 +00:00 [Warning] Storing keys in a directory '"/home/bitwarden/.aspnet/DataProtection-Keys"' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. For more information go to https://aka.ms/aspnet/dataprotectionwarning
+2025-08-24 14:33:03.737 +00:00 [Warning] No XML encryptor configured. Key {088636df-d7d6-4510-a8ab-5b3d09c5608c} may be persisted to storage in unencrypted form.
+2025-08-24 14:33:03.830 +00:00 [Warning] Overriding HTTP_PORTS '"8080"' and HTTPS_PORTS '""'. Binding to values defined by URLS instead '"http://+:5000"'.
+2025-08-24 15:47:02.512 +00:00 [Warning] Stopping service.

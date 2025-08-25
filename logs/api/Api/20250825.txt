@@ -1,0 +1,13 @@
+2025-08-25 02:39:41.322 +00:00 [Information] Api started.
+2025-08-25 03:00:00.079 +00:00 [Information] Starting job "EmergencyAccessNotificationJob" at 08/25/2025 03:00:00.
+2025-08-25 03:00:00.079 +00:00 [Information] Starting job "EmergencyAccessTimeoutJob" at 08/25/2025 03:00:00.
+2025-08-25 03:00:00.079 +00:00 [Information] Starting job "ValidateOrganizationDomainJob" at 08/25/2025 03:00:00.
+2025-08-25 03:00:00.080 +00:00 [Information] Starting job "AliveJob" at 08/25/2025 03:00:00.
+2025-08-25 03:00:00.095 +00:00 [Information] It's alive!
+2025-08-25 03:00:00.098 +00:00 [Information] Execute job task: ValidateOrganizationDomainJob: Start
+2025-08-25 03:00:00.102 +00:00 [Information] Finished job "AliveJob" at 08/25/2025 03:00:00.
+2025-08-25 03:00:00.609 +00:00 [Information] Finished job "EmergencyAccessTimeoutJob" at 08/25/2025 03:00:00.
+2025-08-25 03:00:00.613 +00:00 [Information] Finished job "EmergencyAccessNotificationJob" at 08/25/2025 03:00:00.
+2025-08-25 03:00:00.663 +00:00 [Information] Validating 0 domains.
+2025-08-25 03:00:00.664 +00:00 [Information] Execute job task: ValidateOrganizationDomainJob: End
+2025-08-25 03:00:00.665 +00:00 [Information] Finished job "ValidateOrganizationDomainJob" at 08/25/2025 03:00:00.

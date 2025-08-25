@@ -1,0 +1,23 @@
+2025/08/22 07:14:29 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:17
+2025/08/22 07:14:29 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:18
+2025/08/22 07:50:41 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:17
+2025/08/22 07:50:41 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:18
+2025/08/22 07:56:10 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:17
+2025/08/22 07:56:10 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:18
+2025/08/22 07:56:11 [error] 48#48: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: bitwarden.local, request: "GET /api/devices/knowndevice HTTP/2.0", upstream: "http://172.18.0.6:5000/devices/knowndevice", host: "bitwarden.local", referrer: "https://bitwarden.local/"
+2025/08/22 07:56:19 [error] 48#48: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: bitwarden.local, request: "POST /identity/accounts/prelogin HTTP/2.0", upstream: "http://172.18.0.5:5000/identity/accounts/prelogin", host: "bitwarden.local", referrer: "https://bitwarden.local/"
+2025/08/22 08:04:23 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:17
+2025/08/22 08:04:23 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:18
+2025/08/23 11:04:59 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:17
+2025/08/23 11:04:59 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:18
+2025/08/23 12:14:45 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:17
+2025/08/23 12:14:45 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:18
+2025/08/23 12:16:40 [warn] 48#48: *5 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/1/00/0000000001 while reading upstream, client: 172.18.0.1, server: bitwarden.local, request: "GET /app/vendor.a88e501a1c6e87a18803.js HTTP/2.0", upstream: "http://172.19.0.2:5000/app/vendor.a88e501a1c6e87a18803.js", host: "bitwarden.local", referrer: "https://bitwarden.local/"
+2025/08/23 12:16:40 [warn] 48#48: *5 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/2/00/0000000002 while reading upstream, client: 172.18.0.1, server: bitwarden.local, request: "GET /app/main.28398b31d6a2acd09ca8.js HTTP/2.0", upstream: "http://172.19.0.2:5000/app/main.28398b31d6a2acd09ca8.js", host: "bitwarden.local", referrer: "https://bitwarden.local/"
+2025/08/24 14:31:43 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:17
+2025/08/24 14:31:43 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:18
+2025/08/24 14:32:45 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:17
+2025/08/24 14:32:45 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:18
+2025/08/25 02:39:37 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:17
+2025/08/25 02:39:37 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/default.conf:18
+2025/08/25 02:40:27 [warn] 45#45: *3 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/1/00/0000000001 while reading upstream, client: 172.18.0.1, server: bitwarden.local, request: "GET /app/vendor.a88e501a1c6e87a18803.js HTTP/2.0", upstream: "http://172.19.0.7:5000/app/vendor.a88e501a1c6e87a18803.js", host: "bitwarden.local", referrer: "https://bitwarden.local/"
